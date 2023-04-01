@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jucee", "Jucee\Jucee.csproj", "{FB1A2498-9F16-4D65-B3EF-566EC6707203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jucee.Test", "Jucee.Test\Jucee.Test.csproj", "{8DE3ED49-DC18-4BB6-8D4E-0F633DC27BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1A2498-9F16-4D65-B3EF-566EC6707203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1A2498-9F16-4D65-B3EF-566EC6707203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1A2498-9F16-4D65-B3EF-566EC6707203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1A2498-9F16-4D65-B3EF-566EC6707203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE3ED49-DC18-4BB6-8D4E-0F633DC27BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE3ED49-DC18-4BB6-8D4E-0F633DC27BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE3ED49-DC18-4BB6-8D4E-0F633DC27BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE3ED49-DC18-4BB6-8D4E-0F633DC27BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA09605B-B92E-4E30-AFEA-8E6CCB11DDC2}
+	EndGlobalSection
+EndGlobal
